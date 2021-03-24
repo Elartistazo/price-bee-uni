@@ -4,7 +4,7 @@ A Discord bot to show token prices.
 
 ## Quickstart
 
-<a href="https://heroku.com/deploy?template=https://github.com/Elartistazo/price-bee">
+<a href="https://heroku.com/deploy?template=https://github.com/Elartistazo/price-bee-uni">
 <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 
