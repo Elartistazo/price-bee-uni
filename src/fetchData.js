@@ -4,7 +4,7 @@ const dotenv = require('dotenv')
 
 dotenv.config()
 
-const SUBGRAPH_URL = 'https://api.thegraph.com/subgraphs/name/uniswap/uniswap-v2'
+const SUBGRAPH_URL = 'https://thegraph.com/explorer/subgraph/uniswap/uniswap-v2'
 
 const PRICE_QUERY = gql`
   query {
