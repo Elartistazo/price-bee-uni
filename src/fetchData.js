@@ -25,7 +25,7 @@ const fetchData = async () => {
 
 exports.getTokenPrice = async () => {
   const res = await fetchData()
-  const price = parseFloat(res.data.token.derivedETH).toFixed(4)
+  const price = parseFloat(res.data.token.derivedETH).toFixed(8)
   return price
 }
 
